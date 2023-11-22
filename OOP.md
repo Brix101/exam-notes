@@ -132,4 +132,4 @@ public class Square : Shape
 }
 ```
 
-These are the basic concepts of OOP. Understanding and practicing these concepts will help you structure your code in a more organized and reusable way. Feel free to ask if you have specific questions or if there's a particular aspect you'd like more clarification on!
+These are the basic concepts of OOP. Understanding and practicing these concepts will help you structure your code in a more organized and reusable way.
